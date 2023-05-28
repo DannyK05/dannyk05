@@ -1,7 +1,6 @@
 ### Hi I'm Kolade 👋, a frontend developer.
 - 🌱 I’m currently learning React
 - 💬 Ask me about Html, Css and Js
-- 📫 How to reach me: [https://www.linkedin.com/in/olubanjo-kolade-aa1a36240/] 
 - ⚡ Fun fact: I'm interested in mental health awareness and I want to delve in AI and Robotics.  
 
 
