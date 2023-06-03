@@ -14,10 +14,10 @@
 </div>
 
 ### 🥇 Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannyk05&layout=pie&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannyk05&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact Me 😃 :
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/olubanjo-kolade-aa1a36240/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
