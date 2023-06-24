@@ -18,7 +18,7 @@
 
 ### Contact Me 😃 :
 <div id="badges" align="left">
-  <a href="https://www.linkedin.com/in/olubanjo-kolade-aa1a36240/">
+  <a href="www.linkedin.com/in/kolade-olubanjo-aa1a36240">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
