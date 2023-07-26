@@ -1,7 +1,7 @@
 ### Hi I'm Kolade 👋, a frontend developer.
 - 🌱 I’m currently learning React
 - 💬 Ask me about Html, Css and Js
-- ⚡ Fun fact: I'm interested in mental health awareness and I want to delve in AI and Robotics.
+- ⚡ Fun fact: I'm interested in AI and Robotics.
 
 ### 🛠️ Languages and Tools :
 
