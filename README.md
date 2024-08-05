@@ -1,7 +1,7 @@
 ### Hi I'm Kolade 👋, a frontend developer.
-- 🌱 I’m currently learning React
-- 💬 Ask me about Html, Css and Js
-- ⚡ Fun fact: I'm interested in AI and Robotics.
+- 🌱 I’m currently learning Next.js
+- 💬 Ask me about Html, Css, Js and React.js
+- ⚡ Fun fact: I'm interested in Robotics.
 
 ### 🛠️ Languages and Tools :
 
