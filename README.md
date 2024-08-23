@@ -1,7 +1,7 @@
 ### Hi I'm Kolade 👋, a frontend developer.
 - 🌱 I’m currently learning Next.js.
 - 🎓 Computer Engineering Major @ Obafemi Awolowo University.
-- 🔎 I;msearching for more tech experiences and internships.
+- 🔎 I'm searching for more tech experiences and internships.
 - ⚡ Fun fact: I'm interested in Robotics.
 
 ### 🛠️ Languages and Tools :
