@@ -28,6 +28,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+[Kolade's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dannyk05&show_icons=true&theme=black)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dannyk05i&theme=dark)](https://git.io/streak-stats)
+
+
+### My Holopin Board 🐲:
+[![An image of @dannyk05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dannyk05)](https://holopin.io/@dannyk05)
 
 <!--
 **DannyK05/dannyk05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
