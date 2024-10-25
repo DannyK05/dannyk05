@@ -19,7 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   
 </div>
-<div class="flex">
+
 ### 🥇 Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannyk05&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
