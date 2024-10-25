@@ -1,3 +1,10 @@
+<style>
+  .flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+</style>
 ### Hi I'm Kolade 👋, a frontend developer.
 - 🌱 I’m currently learning Next.js.
 - 🎓 Computer Engineering Major @ Obafemi Awolowo University.
@@ -18,7 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   
 </div>
-
+<div class="flex">
 ### 🥇 Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannyk05&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -28,12 +35,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
+<div class="flex">
 ![Kolade's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dannyk05&show_icons=true&theme=black)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dannyk05&theme=dark)](https://git.io/streak-stats)
-
+</div>
 
 ### My Holopin Board 🐲:
 [![An image of @dannyk05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dannyk05)](https://holopin.io/@dannyk05)
