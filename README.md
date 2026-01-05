@@ -1,6 +1,6 @@
 
 ### Hi I'm Kolade 👋, a frontend developer.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning Django.
 - 🎓 Computer Engineering Major @ Obafemi Awolowo University.
 - 🔎 I'm searching for more tech experiences and internships.
 - ⚡ Fun fact: I'm interested in Robotics and Embedded systems.
