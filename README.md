@@ -1,32 +1,59 @@
-### 👋 Hi, I'm Kolade (Kxlade)
+<h1 align="center">Hi 👋, I'm Kolade</h1>
+<h3 align="center">Frontend Developer • Computer Engineering Student</h3>
 
-I'm a Software Engineer who enjoys building interactive and meaningful web experiences.
+<p align="center">
+  I enjoy building interactive and meaningful web experiences.
+</p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
+
 - 💻 Frontend Developer (React, Next.js, TypeScript)
 - ⚙️ Currently learning backend development with Django
-- 🎯 Interested in building cool stuffs.
+- 🎯 Interested in building cool stuffs
 
 ---
 
-### 🎮 Fun Stuff
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,py,django,fastapi,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DannyK05&show_icons=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=DannyK05" />
+</p>
+
+---
+
+## 🎮 Fun Stuff
+
 - 🎧 Listening to music  
 - 🎮 Playing PUBG  
-- 📸 Photography  
+- 📸 Photography (Lightroom)
 
 ---
 
-### 📊 GitHub Stats
+## 🐲 Holopin Board
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DannyK05&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=DannyK05)
-
-![Profile Views](https://komarev.com/ghpvc/?username=DannyK05)
+<p align="center">
+  <a href="https://holopin.io/@dannyk05">
+    <img src="https://holopin.me/dannyk05" />
+  </a>
+</p>
 
 ---
 
-### 🐲 Holopin Board
-[![Holopin](https://holopin.me/dannyk05)](https://holopin.io/@dannyk05)
+## 🤝 Connect with Me
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel" /></a>
+</p>
