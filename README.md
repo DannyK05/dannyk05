@@ -32,7 +32,7 @@ Backend
 Python • Django • PostgreSQL
 
 Tools
-Git • Docker • Linux • Figma
+Git • Docker • VScode
 ```
 
 ## Featured Projects
