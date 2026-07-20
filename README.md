@@ -6,15 +6,6 @@
 </p>
 
 ---
-
-## 🚀 About Me
-
-- 💻 Frontend Developer (React, Next.js, TypeScript)
-- ⚙️ Currently learning backend development with Django
-- 🎯 Interested in building cool stuffs
-
----
-
 ## 🛠️ Tech Stack
 
 <p>
@@ -33,25 +24,9 @@
 
 ---
 ## 🧠 LeetCode
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/olubanjok?theme=dark&font=Source%20Code%20Pro&ext=heatmap)](https://leetcode.com/u/olubanjok/)
-
-## 🎮 Fun Stuff
-
-- 🎧 Listening to music  
-- 🎮 Playing PUBG  
-- 📸 Photography (Lightroom)
-
----
-
-## 🐲 Holopin Board
-
 <p align="center">
-  <a href="https://holopin.io/@dannyk05">
-    <img src="https://holopin.me/dannyk05" />
-  </a>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/olubanjok?theme=dark&font=Source%20Code%20Pro&ext=heatmap)](https://leetcode.com/u/olubanjok/)
 </p>
-
 ---
 
 ## 🤝 Connect with Me
