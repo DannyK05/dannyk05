@@ -1,28 +1,55 @@
-<h1 align="center">Hi 👋, I'm Kolade</h1>
-<h3 align="center">Software Engineer • Computer Engineering Student</h3>
+<h1 align="center">Kolade</h1>
 
 <p align="center">
-  I enjoy building interactive and meaningful web experiences.
+  Software Engineer • Computer Engineering Student
 </p>
-
----
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,py,django,fastapi,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DannyK05&show_icons=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=DannyK05" />
+  Building web applications with React, Next.js, TypeScript and Django.
 </p>
 
 ---
+
+## About
+
+I'm a software engineer passionate about building polished, user-focused web applications.
+I'm currently exploring backend engineering, networking, and open source while pursuing a degree in Computer Engineering.
+
+## Current Focus
+
+- Building **Retroji**
+- Developing **Save a Repo**
+- Learning **Django REST Framework**
+- Contributing to open source
+
+## Tech
+
+```text
+Frontend
+React • Next.js • TypeScript • Tailwind CSS
+
+Backend
+Python • Django • PostgreSQL
+
+Tools
+Git • Docker • Linux • Figma
+```
+
+## Featured Projects
+
+- 🚀 **Retroji** — Full-stack social platform.
+- 🌍 **Save a Repo** — Discover beginner-friendly open source projects.
+- 🌌 **Milky Tour** — Interactive 3D solar system built for NASA Space Apps.
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DannyK05&show_icons=true&hide_border=true&bg_color=00000000" />
+</p>
+
+
+---
+
 ## 🧠 LeetCode
 <p align="center">
   <a href="https://leetcode.com/u/olubanjok/">
@@ -32,6 +59,7 @@
     />
   </a>
 </p>
+
 ---
 
 ## 🤝 Connect with Me
