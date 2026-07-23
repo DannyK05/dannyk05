@@ -50,15 +50,7 @@ Git • Docker • VScode
 
 ---
 
-## 🧠 LeetCode
-<p align="center">
-  <a href="https://leetcode.com/u/olubanjok/">
-    <img
-      src="https://leetcard.jacoblin.cool/olubanjok?theme=dark&font=Source%20Code%20Pro&ext=heatmap"
-      alt="LeetCode Stats"
-    />
-  </a>
-</p>
+
 
 ---
 
