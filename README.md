@@ -17,9 +17,9 @@ I'm currently exploring backend engineering, networking, and open source while p
 
 ## Current Focus
 
-- Building **Retroji**
-- Developing **Save a Repo**
-- Learning **Django REST Framework**
+- Solving **Leetcode**
+- Rebuilding exisiting applications
+- Learning Backend systems
 - Contributing to open source
 
 ## Tech
@@ -29,7 +29,7 @@ Frontend
 React • Next.js • TypeScript • Tailwind CSS
 
 Backend
-Python • Django • PostgreSQL
+Python • Django • FastApi • PostgreSQL
 
 Tools
 Git • Docker • VScode
@@ -40,17 +40,6 @@ Git • Docker • VScode
 - 🚀 **Retroji** — Full-stack social platform.
 - 🌍 **Save a Repo** — Discover beginner-friendly open source projects.
 - 🌌 **Milky Tour** — Interactive 3D solar system built for NASA Space Apps.
-
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DannyK05&show_icons=true&hide_border=true&bg_color=00000000" />
-</p>
-
-
----
-
-
 
 ---
 
